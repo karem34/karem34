@@ -2,11 +2,11 @@
 I am a Teenager / Self taught programmer here to learn and make stuff.
 
 #### Currently learning:
-- Python :snake:.
-- Rust 🦀.
-- Computers :desktop_computer:
-- HTML/CSS/JS :earth_asia:.
-- Linux/Bash-Scripting :computer:.
+- C 👴
+- Rust 🦀
+- Go 🚀
+- Full stack web development :earth_asia:
+- Linux :computer:
 
 #### Info
 - Location: Iraq/Baghdad :iraq:
@@ -19,7 +19,7 @@ I am a Teenager / Self taught programmer here to learn and make stuff.
 - file manager: [nnn](https://github.com/jarun/nnn)
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
 - Shell: [Bash](https://www.gnu.org/software/bash/)
-- Editor: [Atom](https://github.com/atom/atom) :atom: and [Vim](https://github.com/vim/vim)
+- Editor: [Vim](https://github.com/vim/vim) and [Vs Code](https://github.com/microsoft/vscode)
 
 
   
